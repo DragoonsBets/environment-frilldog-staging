@@ -2,6 +2,9 @@ dependencies:
 - name: drgbffweb
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.25
+- name: drgmsuser
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.59
 - name: drgui
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.11
