@@ -1,7 +1,7 @@
 dependencies:
 - name: drg-bets
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.57
+  version: 0.0.58
 - name: drgbffweb
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.30
