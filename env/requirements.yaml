@@ -2,6 +2,9 @@ dependencies:
 - name: drg-bets
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.100
+- name: drg-landing
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.3
 - name: drgbffweb
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.30
