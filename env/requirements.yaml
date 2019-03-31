@@ -7,7 +7,7 @@ dependencies:
   version: 0.0.16
 - name: drg-landing-ui
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.24
+  version: 0.0.25
 - name: drgbffweb
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.30
