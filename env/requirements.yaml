@@ -1,7 +1,7 @@
 dependencies:
 - name: drg-bets
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.153
+  version: 0.0.154
 - name: drg-landing-ui
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.51
