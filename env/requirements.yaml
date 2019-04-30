@@ -5,6 +5,9 @@ dependencies:
 - name: drg-landing-ui
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.60
+- name: drgmsuser
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.61
 - name: drgui
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.66
